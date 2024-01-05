@@ -9,5 +9,5 @@ module.exports = {
   variants: {
     extend: {},
   },
-  plugins: [],
+  plugins: ['@tailwindcss/forms'],
 }
